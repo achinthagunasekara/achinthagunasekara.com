@@ -1,0 +1,38 @@
+.space_right {
+	margin-right: 10px;
+}
+
+a.icon_link:link{
+	text-decoration: none;
+	color:#FFFFFF;
+}
+
+a.icon_link:visited {
+	text-decoration: none;
+        color:#FFFFFF;
+}
+
+a.icon_link_white_bg:link{
+        text-decoration: none;
+        color:#7f8c8d;
+}
+
+a.icon_link_white_bg:visited {
+        text-decoration: none;
+        color:#7f8c8d;
+}
+
+a.body_link:link {
+    text-decoration: none;
+    color: #7f8c8d;
+}
+
+a.body_link:visited {
+    text-decoration: none;
+    color: #7f8c8d;
+}
+
+a.body_link:hover {
+    text-decoration: none;
+    color: #1f8dd6;
+}
