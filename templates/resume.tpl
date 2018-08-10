@@ -4,7 +4,7 @@
                 <h2 class="content-head is-center"><i class="fa fa-briefcase"></i> Work Experience</h2>
 		<div class="pure-u-1-4"><!-- Space Holder --></div>
                 <div class="pure-u-1-2">
-                        <h4><i class="fa fa-envelope"></i>&nbsp;&nbsp;&nbsp;DevOps Engineer</h4>
+                        <h4><i class="fa fa-envelope"></i>&nbsp;&nbsp;&nbsp;Senior DevOps Engineer</h4>
                         <p>Postal Service – Melbourne<br/>
                         (October 2016 – Current)</p>
                         <p>AEM, Ansible, Apache, AWS, CloudFormation, Docker, ITIL, Java, J2EE, Linux, MySQL, New Relic, Nginx, Puppet, Splunk, Windows Server</p>
