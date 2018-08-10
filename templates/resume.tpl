@@ -13,7 +13,7 @@
 			(August 2015 – October 2016)</p>
 			<p>Apache, AWS, CloudFormation, Docker, IIS, ITIL, Java, J2EE, Linux, Microsoft SQL Server, MySQL, Oracle, Puppet, VMWare, Windows Server</p>	
 			<h4><i class="fa fa-handshake-o"></i>&nbsp;&nbsp;&nbsp;DevOps Consultant</h4>
-			<p>Consulting Industry – Melbourne</br>
+			<p>Consulting Industry – Melbourne<br/>
 			(August 2015 – October 2016)</P>
 			<p>Apache, AWS, CloudFormation, Docker, IIS, ITIL, Java, J2EE, Linux, Microsoft SQL Server, MySQL, Oracle, Puppet, VMWare, Windows Server</p>
 			<h4><i class="fa fa-cogs"></i>&nbsp;&nbsp;&nbsp;Senior DevOps Engineer</h4>
