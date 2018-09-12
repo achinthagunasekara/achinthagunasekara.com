@@ -8,11 +8,11 @@
                         <p>Postal Service – Melbourne<br/>
                         (October 2016 – Current)</p>
                         <p>AEM, Ansible, Apache, AWS, CloudFormation, Docker, ITIL, Java, J2EE, Linux, MySQL, New Relic, Nginx, Puppet, Splunk, Windows Server</p>
-                        <h4><i class="fa fa-bank"></i>&nbsp;&nbsp;&nbsp;DevOps Engineer</h4>
+                        <h4><i class="fa fa-bank"></i>&nbsp;&nbsp;&nbsp;Senior DevOps Engineer</h4>
 			<p>Banking Industry – Melbourne<br/>
 			(August 2015 – October 2016)</p>
 			<p>Apache, AWS, CloudFormation, Docker, IIS, ITIL, Java, J2EE, Linux, Microsoft SQL Server, MySQL, Oracle, Puppet, VMWare, Windows Server</p>	
-			<h4><i class="fa fa-handshake-o"></i>&nbsp;&nbsp;&nbsp;DevOps Consultant</h4>
+			<h4><i class="fa fa-handshake-o"></i>&nbsp;&nbsp;&nbsp;Senior DevOps Consultant</h4>
 			<p>Consulting Industry – Melbourne<br/>
 			(August 2015 – October 2016)</P>
 			<p>Apache, AWS, CloudFormation, Docker, IIS, ITIL, Java, J2EE, Linux, Microsoft SQL Server, MySQL, Oracle, Puppet, VMWare, Windows Server</p>
