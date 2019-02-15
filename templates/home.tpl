@@ -63,8 +63,8 @@ $(document).ready(function() {
 				</h3>
 				<a class="icon_link_white_bg" href="http://blog.achinthagunasekara.com" target="_blank"><i class="fa fa-rss-square fa-5x"></i></a>
 				<p>
-			                How to guides and technical articles on my blog.	
-				</p>		
+			                How to guides and technical articles on my blog.
+				</p>
 			</div>
 			<div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
 				<h3 class="content-subhead">
