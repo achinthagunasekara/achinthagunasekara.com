@@ -33,19 +33,19 @@ $(document).ready(function() {
                                 I am a senior DevOps engineer with 8 years of industry experience in banking, engineering, telecommunication and transportation services. Please <a class="body_link" href="http://achinthagunasekara.com/index.php?page=resume">click</a> here for more information.
                         </p>
             <center>
-                <a src="https://www.certmetrics.com/amazon/public/badge.aspx?i=4&t=c&d=2016-04-14&ci=AWS00169879">
+                <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=4&t=c&d=2016-04-14&ci=AWS00169879">
                     <img src="https://www.certmetrics.com/api/ob/image/amazon/c/4" alt="AWS Certified Solutions Architect Professional" width="150" height="150">
                 </a>
-                <a src="https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2016-06-17&ci=AWS00169879">
+                <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2016-06-17&ci=AWS00169879">
                     <img src="https://www.certmetrics.com/api/ob/image/amazon/c/5" alt="AWS Certified DevOps Engineer Professional" width="150" height="150">
                 </a>
-                <a src="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2015-12-07&ci=AWS00169879">
+                <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2015-12-07&ci=AWS00169879">
                     <img src="https://www.certmetrics.com/api/ob/image/amazon/c/1" alt="AWS Certified Solutions Architect Associate" width="150" height="150">
                 </a>
-                <a src="https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2016-05-04&ci=AWS00169879">
+                <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2016-05-04&ci=AWS00169879">
                     <img src="https://www.certmetrics.com/api/ob/image/amazon/c/3" alt="AWS Certified SysOps Administrator Associate" width="150" height="150">
                 </a>
-                <a src="https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2016-06-17&ci=AWS00169879">
+                <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2016-06-17&ci=AWS00169879">
                     <img src="https://www.certmetrics.com/api/ob/image/amazon/c/2" alt="AWS Certified Developer Associate" width="150" height="150">
                 </a>
                 <img src="images/CCNA_Network.jpg" alt="Cisco CCNA">
