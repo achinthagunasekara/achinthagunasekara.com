@@ -2,4 +2,4 @@
 
 [http://achinthagunasekara.com/](http://achinthagunasekara.com/)
 
-This gets pulled by CF.
+This gets pulled by CloudFormation. 
