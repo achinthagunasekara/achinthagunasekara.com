@@ -4,9 +4,13 @@
                 <h2 class="content-head is-center"><i class="fa fa-briefcase"></i> Work Experience</h2>
 		<div class="pure-u-1-4"><!-- Space Holder --></div>
                 <div class="pure-u-1-2">
+		        <h4><i class="fa fa-microchip"></i>&nbsp;&nbsp;&nbsp;Senior Software Engineer</h4>
+                        <p>Managed Software Services - Current<br/>
+                        (January 2019 – Current)</p>
+                        <p>Ansible, Apache, AWS, Chef, CloudFormation, Docker, Java, Kubernetes, Linux, MySQL, New Relic, Nginx, Packer, Puppet, Terraform</p>
                         <h4><i class="fa fa-envelope"></i>&nbsp;&nbsp;&nbsp;Senior DevOps Engineer</h4>
                         <p>Postal Service – Melbourne<br/>
-                        (October 2016 – Current)</p>
+                        (October 2016 – January 2019)</p>
                         <p>AEM, Ansible, Apache, AWS, CloudFormation, Docker, ITIL, Java, J2EE, Linux, MySQL, New Relic, Nginx, Puppet, Splunk, Windows Server</p>
                         <h4><i class="fa fa-bank"></i>&nbsp;&nbsp;&nbsp;Senior DevOps Engineer</h4>
 			<p>Banking Industry – Melbourne<br/>
