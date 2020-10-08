@@ -7,7 +7,7 @@
 		        <h4><i class="fa fa-microchip"></i>&nbsp;&nbsp;&nbsp;Senior Software Engineer</h4>
                         <p>Managed Software Services - Current<br/>
                         (January 2019 – Current)</p>
-                        <p>Ansible, Apache, AWS, Chef, CloudFormation, Docker, Java, Kubernetes, Linux, MySQL, New Relic, Nginx, Packer, Puppet, Terraform</p>
+                        <p>Apache, AWS, Chef, Docker, GCP, Golang, Kubernetes, Linux, MySQL, New Relic, Nginx, Packer, Python, Terraform</p>
                         <h4><i class="fa fa-envelope"></i>&nbsp;&nbsp;&nbsp;Senior DevOps Engineer</h4>
                         <p>Postal Service – Melbourne<br/>
                         (October 2016 – January 2019)</p>
