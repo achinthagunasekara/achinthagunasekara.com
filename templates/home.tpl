@@ -33,13 +33,13 @@ $(document).ready(function() {
             <center>
                 <a href="https://www.youracclaim.com/badges/489202c2-e339-44b5-89f4-1ece1cc07f38" target="_blank"
                 ><img src="https://images.youracclaim.com/size/680x680/images/8e968853-15af-4bbc-9d03-cf518971909c/AWS-SolArchitect-Professional-2020.png" alt="AWS Certified Solutions Architect Professional" width="150" height="150"></a>
-                <a href="https://www.youracclaim.com/earner/earned/badge/8c34726f-3ea5-4b0d-8c41-4481365ab12f" target="_blank"
+                <a href="https://www.credly.com/earner/earned/badge/204a36a4-82e7-4f16-8f97-82b4fc8182b4" target="_blank"
                 ><img src="https://www.certmetrics.com/api/ob/image/amazon/c/5" alt="AWS Certified DevOps Engineer Professional" width="150" height="150"></a>
                 <a href="https://www.youracclaim.com/earner/earned/badge/2667e222-79c0-45b2-93f0-1db32076375d" target="_blank"
                 ><img src="https://www.certmetrics.com/api/ob/image/amazon/c/1" alt="AWS Certified Solutions Architect Associate" width="150" height="150"></a>
-                <a href="https://www.youracclaim.com/earner/earned/badge/0def5429-82be-4aac-8eb6-877a8542d4e6" target="_blank"
+                <a href="https://www.credly.com/earner/earned/badge/141bf9cd-a9e1-45e5-b051-9d5bd9be4ddd" target="_blank"
                 ><img src="https://www.certmetrics.com/api/ob/image/amazon/c/3" alt="AWS Certified SysOps Administrator Associate" width="150" height="150"></a>
-                <a href="https://www.youracclaim.com/earner/earned/badge/375d2c1d-0630-44cd-84e5-4d6e1ff9da7e" target="_blank"
+                <a href="https://www.credly.com/earner/earned/badge/ec8c5cb8-3812-4ae3-a7b8-74f06d9e92d6" target="_blank"
                 ><img src="https://www.certmetrics.com/api/ob/image/amazon/c/2" alt="AWS Certified Developer Associate" width="150" height="150"></a>
                 <img src="images/CCNA_Network.jpg" alt="Cisco CCNA">
                 <img src="images/CCENT_Network.jpg" alt="Cisco CCENT">
