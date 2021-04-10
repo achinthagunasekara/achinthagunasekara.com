@@ -32,15 +32,17 @@ $(document).ready(function() {
             <p>I am a senior DevOps engineer with 8 years of industry experience in banking, engineering, telecommunication and transportation services. Please <a class="body_link" href="http://achinthagunasekara.com/index.php?page=resume">click</a> here for more information.</p>
             <center>
                 <a href="https://www.credly.com/badges/489202c2-e339-44b5-89f4-1ece1cc07f38/public_url" target="_blank"
-                ><img src="https://images.youracclaim.com/size/680x680/images/8e968853-15af-4bbc-9d03-cf518971909c/AWS-SolArchitect-Professional-2020.png" alt="AWS Certified Solutions Architect Professional" width="150" height="150"></a>
+                ><img src="https://images.credly.com/size/680x680/images/8e968853-15af-4bbc-9d03-cf518971909c/AWS-SolArchitect-Professional-2020.png" alt="AWS Certified Solutions Architect Professional" width="150" height="150"></a>
                 <a href="https://www.credly.com/badges/204a36a4-82e7-4f16-8f97-82b4fc8182b4/public_url" target="_blank"
-                ><img src="https://www.certmetrics.com/api/ob/image/amazon/c/5" alt="AWS Certified DevOps Engineer Professional" width="150" height="150"></a>
+                ><img src="https://images.credly.com/size/680x680/images/7fbb805d-ea82-4276-a227-e63121a2844b/AWS-DevOpsEngineer-Professional-2020.png" alt="AWS Certified DevOps Engineer Professional" width="150" height="150"></a>
                 <a href="https://www.credly.com/badges/2667e222-79c0-45b2-93f0-1db32076375d/public_url" target="_blank"
-                ><img src="https://www.certmetrics.com/api/ob/image/amazon/c/1" alt="AWS Certified Solutions Architect Associate" width="150" height="150"></a>
+                ><img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="AWS Certified Solutions Architect Associate" width="150" height="150"></a>
                 <a href="https://www.credly.com/badges/141bf9cd-a9e1-45e5-b051-9d5bd9be4ddd/public_url" target="_blank"
-                ><img src="https://www.certmetrics.com/api/ob/image/amazon/c/3" alt="AWS Certified SysOps Administrator Associate" width="150" height="150"></a>
+                ><img src="https://images.credly.com/size/680x680/images/bf588058-87cc-4cbd-94b0-ef0385fb4371/AWS-SysOpAdmin-Associate-2020.png" alt="AWS Certified SysOps Administrator Associate" width="150" height="150"></a>
                 <a href="https://www.credly.com/badges/ec8c5cb8-3812-4ae3-a7b8-74f06d9e92d6/public_url" target="_blank"
-                ><img src="https://www.certmetrics.com/api/ob/image/amazon/c/2" alt="AWS Certified Developer Associate" width="150" height="150"></a>
+                ><img src="https://images.credly.com/size/680x680/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" alt="AWS Certified Developer Associate" width="150" height="150"></a>
+                <a href="https://www.credly.com/badges/123f6c47-db5c-4810-9d8f-cf78b5dceaef/public_url" target="_blank"
+                ><img src="https://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="AWS Certified Cloud Practitioner" width="150" height="150"></a>
                 <img src="images/CCNA_Network.jpg" alt="Cisco CCNA">
                 <img src="images/CCENT_Network.jpg" alt="Cisco CCENT">
                 <img src="images/CertBadge_Administrator_web.png" alt="Google Certified Administrator">
