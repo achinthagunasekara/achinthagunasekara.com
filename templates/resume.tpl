@@ -79,6 +79,8 @@
 			<h4><i class="fa fa-cogs"></i>&nbsp;&nbsp;&nbsp;AWS Certified SysOps Administrator – Associate Level</h4>
                         <p>Amazon Web Services</p>
 			<h4><i class="fa fa-cogs"></i>&nbsp;&nbsp;&nbsp;AWS Certified Developer Administrator – Associate Level</h4>
+			<p>Amazon Web Services</p>
+			<h4><i class="fa fa-cogs"></i>&nbsp;&nbsp;&nbsp;AWS Certified Cloud Practitioner</h4>
                         <p>Amazon Web Services</p>
 			<h4><i class="fa fa-cogs"></i>&nbsp;&nbsp;&nbsp;CCNA – Routing and Switching</h4>
                         <p>Cisco</p>
