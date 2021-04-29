@@ -71,43 +71,104 @@
                 <div class="pure-u-1-4"><!-- Space Holder --></div>
                 <div class="pure-u-1-2">
 			<h4>
-				<img src="https://images.credly.com/size/680x680/images/8e968853-15af-4bbc-9d03-cf518971909c/AWS-SolArchitect-Professional-2020.png" alt="AWS Certified Solutions Architect Professional" width="50" height="50">
-				&nbsp;&nbsp;&nbsp;AWS Certified Solutions Architect – Professional Level
+				<table>
+					<tr><td>
+						<img src="https://images.credly.com/size/680x680/images/8e968853-15af-4bbc-9d03-cf518971909c/AWS-SolArchitect-Professional-2020.png" alt="AWS Certified Solutions Architect Professional" width="50" height="50">
+					</td>
+					<td style="padding-left:10px">
+						AWS Certified Solutions Architect – Professional Level
+					</td></tr>
+				</table>
 			</h4>
                         <p>Amazon Web Services</p>
 			<h4>
-				<img src="https://images.credly.com/size/680x680/images/7fbb805d-ea82-4276-a227-e63121a2844b/AWS-DevOpsEngineer-Professional-2020.png" alt="AWS Certified DevOps Engineer Professional" width="50" height="50">
-				&nbsp;&nbsp;&nbsp;AWS Certified DevOps Engineer – Professional
+				<table>
+					<tr><td>
+						<img src="https://images.credly.com/size/680x680/images/7fbb805d-ea82-4276-a227-e63121a2844b/AWS-DevOpsEngineer-Professional-2020.png" alt="AWS Certified DevOps Engineer Professional" width="50" height="50">
+					</td>
+					<td style="padding-left:10px">
+						AWS Certified DevOps Engineer – Professional
+					</td></tr>
+				</table>
 			</h4>
                         <p>Amazon Web Services</p>
 			<h4>
-				<img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="AWS Certified Solutions Architect Associate" width="50" height="50">
-				&nbsp;&nbsp;&nbsp;AWS Certified Solutions Architect – Associate Level
+				<table>
+					<tr><td>
+						<img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="AWS Certified Solutions Architect Associate" width="50" height="50">
+					</td>
+					<td style="padding-left:10px">
+						AWS Certified Solutions Architect – Associate Level
+					</td></tr>
+				</table>
 			</h4>
                         <p>Amazon Web Services</p>
 			<h4>
-				<img src="https://images.credly.com/size/680x680/images/bf588058-87cc-4cbd-94b0-ef0385fb4371/AWS-SysOpAdmin-Associate-2020.png" alt="AWS Certified SysOps Administrator Associate" width="50" height="50">
-				&nbsp;&nbsp;&nbsp;AWS Certified SysOps Administrator – Associate Level
+				<table>
+					<tr><td>
+						<img src="https://images.credly.com/size/680x680/images/bf588058-87cc-4cbd-94b0-ef0385fb4371/AWS-SysOpAdmin-Associate-2020.png" alt="AWS Certified SysOps Administrator Associate" width="50" height="50">
+					</td>
+					<td style="padding-left:10px">
+						AWS Certified SysOps Administrator – Associate Level
+					</td></tr>
+				</table>
 			</h4>
                         <p>Amazon Web Services</p>
 			<h4>
-				<img src="https://images.credly.com/size/680x680/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" alt="AWS Certified Developer Associate" width="50" height="50">
-				</i>&nbsp;&nbsp;&nbsp;AWS Certified Developer Administrator – Associate Level
+				<table>
+					<tr><td>
+						<img src="https://images.credly.com/size/680x680/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" alt="AWS Certified Developer Associate" width="50" height="50">
+					</td>
+					<td style="padding-left:10px">
+						AWS Certified Developer Administrator – Associate Level
+					</td></tr>
+				</table>
 			</h4>
 			<p>Amazon Web Services</p>
 			<h4>
-				<img src="https://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="AWS Certified Cloud Practitioner" width="50" height="50">
-				&nbsp;&nbsp;&nbsp;AWS Certified Cloud Practitioner
+				<table>
+					<tr><td>
+						<img src="https://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="AWS Certified Cloud Practitioner" width="50" height="50">
+					</td>
+					<td style="padding-left:10px">
+						AWS Certified Cloud Practitioner
+					</td></tr>
+				</table>
 			</h4>
                         <p>Amazon Web Services</p>
-			<h4><i class="fa fa-cogs"></i>&nbsp;&nbsp;&nbsp;CCNA – Routing and Switching</h4>
+			<h4>
+				<table>
+					<tr><td>
+						<img src="http://achinthagunasekara.com/images/CCNA_Network.jpg" alt="CCNA – Routing and Switching" width="50" height="50">
+					</td>
+					<td style="padding-left:10px">
+						CCNA – Routing and Switching
+					</td></tr>
+				</table>
+			</h4>
                         <p>Cisco</p>
-                        <h4><i class="fa fa-cogs"></i>&nbsp;&nbsp;&nbsp;CCENT – Routing and Switching</h4>
+                        <h4>
+				<table>
+					<tr><td>
+						<img src="http://achinthagunasekara.com/images/CCENT_Network.jpg" alt="CCENT – Routing and Switching" width="50" height="50">
+					</td>
+					<td style="padding-left:10px">
+						CCENT – Routing and Switching
+					</td></tr>
+				</table>
+			</h4>
                         <p>Cisco</p>
-                        <h4><i class="fa fa-cogs"></i>&nbsp;&nbsp;&nbsp;Google Apps Certified Administrator</h4>
+                        <h4>
+				<table>
+					<tr><td>
+						<img src="http://achinthagunasekara.com/images/CertBadge_Administrator_web.png" alt="Google Apps Certified Administrator" width="50" height="50">
+					</td>
+					<td style="padding-left:10px">
+						Google Apps Certified Administrator
+					</td></tr>
+				</table>
+			</h4>
                         <p>Google Certifications</p>
-                        <h4><i class="fa fa-cogs"></i>&nbsp;&nbsp;&nbsp;Testing of Electrical Equipment Certificate</h4>
-                        <p>Kangan Batman TAFE, VIC, Australia</P>
                 </div>
         </div>
 
