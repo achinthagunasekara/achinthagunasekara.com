@@ -39,30 +39,72 @@
 		<div class="pure-u-1-4"><!-- Place Holder --></div>
                 <div class="pure-u-1-2">
                         <h2 class="content-head is-center content-head-ribbon"><i class="fa fa-graduation-cap"></i> Education</h2>
-                        <h4><i class="fa fa-university"></i>&nbsp;&nbsp;&nbsp;Master of Information Technology – 2014 (With Distinction)</h4>
-			<p>
-                        	RMIT University, VIC, Australia
-			</p>
-			<h4><i class="fa fa-university"></i>&nbsp;&nbsp;&nbsp;Graduate Diploma in Computing – 2013 (With Distinction)</h4>
-                        <p>
-                                RMIT University, VIC, Australia
-                        </p>
-			<h4><i class="fa fa-university"></i>&nbsp;&nbsp;&nbsp;Graduate Certificate in Computing – 2012 (With Distinction)</h4>
-                        <p>
-                                RMIT University, VIC, Australia
-                        </p>
-			<h4><i class="fa fa-university"></i>&nbsp;&nbsp;&nbsp;Bachelor of Information Technology – 2007 (Online Systems)</h4>
-                        <p>
-                                Charles Sturt University, NSW, Australia
-                        </p>
-			<h4><i class="fa fa-university"></i>&nbsp;&nbsp;&nbsp;Diploma of Information Technology – 2006 (System Administration)</h4>
-                        <p>
-                                Holmesglen Institute of TAFE, VIC, Australia
-                        </p>
-			<h4><i class="fa fa-university"></i>&nbsp;&nbsp;&nbsp;Certificate IV in Information Technology – 2005 (Technical Support)</h4>
-                        <p>
-                                Holmesglen Institute of TAFE, VIC, Australia
-                        </p>
+			<h4>
+				<table>
+					<tr><td>
+						<img src="http://www.achinthagunasekara.com/images/RMIT.png" alt="RMIT University, VIC, Australia" width="50" height="50">
+					</td>
+					<td style="padding-left:10px">
+						Master of Information Technology – 2014 (With Distinction)
+					</td></tr>
+				</table>
+			</h4>
+			<p>RMIT University, VIC, Australia</p>
+			<h4>
+				<table>
+					<tr><td>
+						<img src="http://www.achinthagunasekara.com/images/RMIT.png" alt="RMIT University, VIC, Australia" width="50" height="50">
+					</td>
+					<td style="padding-left:10px">
+						Graduate Diploma in Computing – 2013 (With Distinction)
+					</td></tr>
+				</table>
+			</h4>
+			<p>RMIT University, VIC, Australia</p>
+			<h4>
+				<table>
+					<tr><td>
+						<img src="http://www.achinthagunasekara.com/images/RMIT.png" alt="RMIT University, VIC, Australia" width="50" height="50">
+					</td>
+					<td style="padding-left:10px">
+						Graduate Certificate in Computing – 2012 (With Distinction)
+					</td></tr>
+				</table>
+			</h4>
+			<p>RMIT University, VIC, Australia</p>
+			<h4>
+				<table>
+					<tr><td>
+						<img src="http://www.achinthagunasekara.com/images/CSU.png" alt="Charles Sturt University, NSW, Australia" width="50" height="50">
+					</td>
+					<td style="padding-left:10px">
+						Bachelor of Information Technology – 2007
+					</td></tr>
+				</table>
+			</h4>
+			<p>Charles Sturt University, NSW, Australia</p>
+			<h4>
+				<table>
+					<tr><td>
+						<img src="http://www.achinthagunasekara.com/images/Holmesglen.png" alt="Holmesglen Institute of TAFE, VIC, Australia" width="50" height="50">
+					</td>
+					<td style="padding-left:10px">
+						Diploma of Information Technology – 2006 (System Administration)	
+					</td></tr>
+				</table>
+			</h4>
+			<p>Holmesglen Institute of TAFE, VIC, Australia</p>
+			<h4>
+				<table>
+					<tr><td>
+						<img src="http://www.achinthagunasekara.com/images/Holmesglen.png" alt="Holmesglen Institute of TAFE, VIC, Australia" width="50" height="50">
+					</td>
+					<td style="padding-left:10px">
+						Certificate IV in Information Technology – 2005 (Technical Support)	
+					</td></tr>
+				</table>
+			</h4>
+			<p>Holmesglen Institute of TAFE, VIC, Australia</p>
                 </div>
         </div>
 
