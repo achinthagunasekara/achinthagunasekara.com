@@ -218,9 +218,27 @@
                 <h2 class="content-head is-center"><i class="fa fa-trophy"></i> Awards</h2>
                 <div class="pure-u-1-4"><!-- Space Holder --></div>
                 <div class="pure-u-1-2">
-                        <h4><i class="fa fa-star"></i>&nbsp;&nbsp;&nbsp;Membership of Golden Key International Honour Society</h4>
+                        <h4>
+				<table>
+					<tr><td>
+						<img src="http://achinthagunasekara.com/images/GoldenKey.png" alt="Golden Key International Honour Society" width="50" height="50">
+					</td>
+					<td style="padding-left:10px">
+						Membership of Golden Key International Honour Society
+					</td></tr>
+				</table>
+			</h4>
                         <p>Golden Key International Honour Society</p>
-                        <h4><i class="fa fa-star"></i>&nbsp;&nbsp;&nbsp;Chancellor's List Award</h4>
-                        <p>RMIT University, VIC, Australia</P>
+			<h4>
+				<table>
+					<tr><td>
+						<img src="http://www.achinthagunasekara.com/images/RMIT.png" alt="RMIT University, VIC, Australia" width="50" height="50">
+					</td>
+					<td style="padding-left:10px">
+						Chancellor's List Award
+					</td></tr>
+				</table>
+			</h4>
+			<p>RMIT University, VIC, Australia</p>
                 </div>
         </div>
