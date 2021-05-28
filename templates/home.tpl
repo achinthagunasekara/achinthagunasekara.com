@@ -29,7 +29,7 @@ $(document).ready(function() {
         <div class="pure-u-1-24"><!-- Space Holder --></div>
                 <div class="pure-u-22-24">
             <h2 class="content-head is-center">Achintha Gunasekara</h2>
-            <p>I am a senior DevOps engineer with 8 years of industry experience in banking, engineering, telecommunication and transportation services. Please <a class="body_link" href="http://achinthagunasekara.com/index.php?page=resume">click</a> here for more information.</p>
+            <p>I am a senior DevOps engineer with 12 years of industry experience in banking, engineering, telecommunication and transportation services. Please <a class="body_link" href="http://achinthagunasekara.com/index.php?page=resume">click</a> here for more information.</p>
             <center>
                 <a href="https://www.credly.com/badges/489202c2-e339-44b5-89f4-1ece1cc07f38/public_url" target="_blank"
                 ><img src="https://images.credly.com/size/680x680/images/8e968853-15af-4bbc-9d03-cf518971909c/AWS-SolArchitect-Professional-2020.png" alt="AWS Certified Solutions Architect Professional" width="150" height="150"></a>
