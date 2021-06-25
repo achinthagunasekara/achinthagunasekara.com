@@ -118,7 +118,7 @@
 						<img src="https://images.credly.com/size/680x680/images/8e968853-15af-4bbc-9d03-cf518971909c/AWS-SolArchitect-Professional-2020.png" alt="AWS Certified Solutions Architect Professional" width="50" height="50">
 					</td>
 					<td style="padding-left:10px">
-						AWS Certified Solutions Architect – Professional Level
+						AWS Certified Solutions Architect – Professional
 					</td></tr>
 				</table>
 			</h4>
@@ -151,7 +151,7 @@
 						<img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="AWS Certified Solutions Architect Associate" width="50" height="50">
 					</td>
 					<td style="padding-left:10px">
-						AWS Certified Solutions Architect – Associate Level
+						AWS Certified Solutions Architect – Associate
 					</td></tr>
 				</table>
 			</h4>
@@ -162,7 +162,7 @@
 						<img src="https://images.credly.com/size/680x680/images/bf588058-87cc-4cbd-94b0-ef0385fb4371/AWS-SysOpAdmin-Associate-2020.png" alt="AWS Certified SysOps Administrator Associate" width="50" height="50">
 					</td>
 					<td style="padding-left:10px">
-						AWS Certified SysOps Administrator – Associate Level
+						AWS Certified SysOps Administrator – Associate
 					</td></tr>
 				</table>
 			</h4>
@@ -173,7 +173,7 @@
 						<img src="https://images.credly.com/size/680x680/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" alt="AWS Certified Developer Associate" width="50" height="50">
 					</td>
 					<td style="padding-left:10px">
-						AWS Certified Developer Administrator – Associate Level
+						AWS Certified Developer Administrator – Associate
 					</td></tr>
 				</table>
 			</h4>
