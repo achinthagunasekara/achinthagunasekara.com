@@ -137,6 +137,17 @@
 			<h4>
 				<table>
 					<tr><td>
+						<img src="https://images.credly.com/size/680x680/images/d16e8d20-a603-4ce7-94f0-9dc85e7429ba/AWS-AdvNetworking-Specialty-2020.png" alt="AWS Certified Advanced Networking – Specialty" width="50" height="50">
+					</td>
+					<td style="padding-left:10px">
+						AWS Certified Advanced Networking – Specialty
+					</td></tr>
+				</table>
+			</h4>
+                        <p>Amazon Web Services</p>
+			<h4>
+				<table>
+					<tr><td>
 						<img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="AWS Certified Solutions Architect Associate" width="50" height="50">
 					</td>
 					<td style="padding-left:10px">
