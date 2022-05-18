@@ -45,6 +45,8 @@ $(document).ready(function() {
                 ><img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer Associate" width="150" height="150"></a>
                 <a href="https://www.credly.com/badges/123f6c47-db5c-4810-9d8f-cf78b5dceaef/public_url" target="_blank"
                 ><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="150" height="150"></a>
+                <a href="https://www.credly.com/badges/1d005ada-125a-420c-8b44-20b581ea0236/public_url" target="_blank"
+                ><img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified: Terraform Associate" width="150" height="150"></a>
                 <img src="images/CCNA_Network.jpg" alt="Cisco CCNA">
                 <img src="images/CCENT_Network.jpg" alt="Cisco CCENT">
                 <img src="images/CertBadge_Administrator_web.png" alt="Google Certified Administrator">
